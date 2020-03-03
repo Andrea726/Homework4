@@ -1,3 +1,23 @@
 body {
     background-color: wheat;
 }
+
+.deep {
+    background-color: aqua;
+}
+
+.things {
+    font-family: "Georgia", 'New Century Schoolbook', serif;
+}
+
+.how {
+    font-family: "Western", "Comic Sans", fantasy;
+}
+
+.taking {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.enjoy {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
